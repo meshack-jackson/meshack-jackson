@@ -1,3 +1,4 @@
+![logo](https://github.com/meshack-jackson/meshack-jackson/blob/main/Data_security_24.jpg)
 <h1 align="center">Hi 👋, I'm Meshack Jackson</h1>
 <h3 align="center">A passionate frontend developer and cyber security from Tanzania</h3>
 
